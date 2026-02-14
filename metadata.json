@@ -1,0 +1,7 @@
+{
+  "name": "Super Soccer Sim 3D - Pro Edition",
+  "description": "A comprehensive soccer simulation game featuring 3D match visualization, team/player/stadium editors, career mode with transfers, and AI-powered narration in the style of Dandan Pereira.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
